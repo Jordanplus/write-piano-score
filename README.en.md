@@ -129,14 +129,8 @@ uv pip install --python .venv/bin/python -e .
 ```
 > **Neural Piano Checkpoint**: On first run, `extract_source_midi.py` automatically downloads ByteDance's official 88-key piano transcription checkpoint (`note_F1=0.9677_pedal_F1=0.9186.pth`, ~165 MB) via `curl` to `~/piano_transcription_inference_data/` and caches it permanently for all subsequent runs.
 
-### 3. Optional Global Antigravity Skill Mounting
-Workspace discovery symlinks are already provided under `.agents/skills/`. To enable globally across all workspaces:
-```bash
-mkdir -p ~/.gemini/skills
-ln -sfn "$(pwd)/source-extract-compare-skill" ~/.gemini/skills/source-extract-compare-skill
-ln -sfn "$(pwd)/piano-score-skill"            ~/.gemini/skills/piano-score-skill
-ln -sfn "$(pwd)/piano-score-review-skill"     ~/.gemini/skills/piano-score-review-skill
-```
+### 3. Skill Scope (Repository-Only)
+All three skills are registered via workspace symlinks under `.agents/skills/`, so they are **automatically discovered only inside this repository (`write-piano-score`)** without affecting your global `~/.gemini/skills/` directory.
 
 ---
 

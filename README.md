@@ -126,14 +126,8 @@ uv pip install --python .venv/bin/python -e .
 ```
 > **神經鋼琴模型權重**：首次執行 `extract_source_midi.py` 時，會自動透過 `curl` 下載 ByteDance 官方 88 鍵鋼琴轉錄權重（`note_F1=0.9677_pedal_F1=0.9186.pth`，約 165MB）至 `~/piano_transcription_inference_data/` 並永久快取，後續免重複下載。
 
-### 3. 掛載為 Antigravity 全域技能（選用）
-本專案已於 `.agents/skills/` 內建 Workspace 軟連結；若希望跨專案全域使用：
-```bash
-mkdir -p ~/.gemini/skills
-ln -sfn "$(pwd)/source-extract-compare-skill" ~/.gemini/skills/source-extract-compare-skill
-ln -sfn "$(pwd)/piano-score-skill"            ~/.gemini/skills/piano-score-skill
-ln -sfn "$(pwd)/piano-score-review-skill"     ~/.gemini/skills/piano-score-review-skill
-```
+### 3. 技能生效範圍（僅限本專案）
+本專案已於 `.agents/skills/` 內建 Workspace 符號連結，三個技能預設**僅在此儲存庫（`write-piano-score`）內自動探索與生效**，不會汙染全域 `~/.gemini/skills/` 環境。
 
 ---
 
