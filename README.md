@@ -1,11 +1,11 @@
-# 🎹 Write Piano Score — 音訊實測鋼琴扒譜、編曲排版與獨立品質稽核三技能管線
+# 🎹 Write Piano Score — 音訊實測鋼琴採譜、編曲排版與獨立品質稽核三技能流程
 
 <p align="center">
   <b>繁體中文</b> ｜ <a href="./README.en.md">English</a>
 </p>
 
 <p align="center">
-  將任意 <b>YouTube 音樂連結</b>或<b>本地音訊檔</b>，透過「<b>上游高精度神經網路 MIDI 抽取與 1:1 原音比對</b> → <b>中游結構化雙手鋼琴編曲與五合一出版級排版</b> → <b>下游獨立審稿 Subagent 盲測稽核</b>」三階段閉環管線，產出真正忠於原曲旋律、可立即彈奏的出版級鋼琴譜。
+  將任意 <b>YouTube 音樂連結</b>或<b>本機音訊檔</b>，透過「<b>上游高精度神經網路 MIDI 抽取與 1:1 原音比對</b> → <b>中游結構化雙手鋼琴編曲與五合一出版級排版</b> → <b>下游獨立審稿 Subagent 盲測稽核</b>」三階段完整流程，產出真正忠於原曲旋律、可立即彈奏的出版級鋼琴譜。
 </p>
 
 ---
@@ -20,7 +20,7 @@
 本專案因此拆分為**三個職責獨立、互為閘門的 Antigravity Agent Skills**：
 
 ```text
-YouTube URL / 本地音訊
+YouTube URL / 本機音訊
         │
         ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -58,7 +58,7 @@ YouTube URL / 本地音訊
 write-piano-score/
 ├── README.md                                  # 繁體中文完整說明（本檔）
 ├── README.en.md                               # English Full Documentation
-├── pyproject.toml                             # Python 3.11+ 依賴定義（uv 相容）
+├── pyproject.toml                             # Python 3.11+ 相依套件定義（uv 相容）
 ├── .agents/skills/                            # Workspace 自動探索軟連結
 │   ├── source-extract-compare-skill -> ../../source-extract-compare-skill
 │   ├── piano-score-skill            -> ../../piano-score-skill
@@ -78,7 +78,7 @@ write-piano-score/
 │   │   ├── score-schema.md                    # score.json 單一真實來源規格
 │   │   └── piano-arrangement-guide.md         # 鋼琴人體工學與抒情伴奏織體規範
 │   └── scripts/
-│       ├── fetch_audio.py                     # YouTube / 本地音訊擷取與標準化
+│       ├── fetch_audio.py                     # YouTube / 本機音訊擷取與標準化
 │       ├── analyze_audio.py                   # HPSS、Viterbi 和弦與節拍輔助分析
 │       ├── verify_score.py                    # 拍數、手部跨度、低音渾濁度、連結線驗證
 │       └── render_score.py                    # 編譯 LilyPond PDF/PNG、MusicXML、表情 MIDI、FluidSynth MP3、簡譜 MD
@@ -86,7 +86,7 @@ write-piano-score/
 ├── piano-score-review-skill/                  # 【下游技能】獨立多模態鋼琴譜稽核與品質閘門
 │   ├── SKILL.md
 │   ├── references/
-│   │   ├── audit-checklist.md                 # 六大審查維度、嚴重度分級、常見 AI 扒譜失敗模式
+│   │   ├── audit-checklist.md                 # 六大審查維度、嚴重度分級、常見 AI 採譜失敗模式
 │   │   └── report-template.md                 # 標準繁體中文稽核報告範本
 │   └── scripts/
 │       ├── extract_score_melody.py            # 逐小節主旋律、簡譜、和弦與歌詞萃取

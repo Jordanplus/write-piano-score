@@ -1,7 +1,7 @@
 ---
 name: piano-score-skill
 description: >-
-  依指定歌曲（YouTube 連結或本地音訊檔）全自動分析音高、調性、轉調、BPM、和弦進行與主旋律，
+  依指定歌曲（YouTube 連結或本機音訊檔）全自動分析音高、調性、轉調、BPM、和弦進行與主旋律，
   並編寫出版級雙手鋼琴譜（五線譜 PDF、高解析 PNG 預覽、LilyPond 原始碼、可編輯 MusicXML、
   表情 MIDI、FluidSynth 真實平台鋼琴試聽 MP3、以及繁體中文簡譜與和弦對照表）。
   當使用者要求「把某首歌寫成鋼琴譜」、「抓歌編鋼琴譜」、「把 YouTube 音樂轉成五線譜／簡譜」時使用此技能。
@@ -9,7 +9,7 @@ description: >-
 
 # 🎹 Piano Score Skill（依曲編寫出版級鋼琴譜全流程）
 
-本技能提供一套**「音訊實測分析（Audio-Grounded MIR）＋專業鋼琴編曲（Idiomatic Arranging）＋多格式出版級排版（Multi-Format Engraving）」**的標準化端到端管線，將任何 YouTube 連結或本地音訊轉換為真正可直接彈奏、經過樂理與視覺雙重驗證的雙手鋼琴譜。
+本技能提供一套**「音訊實測分析（Audio-Grounded MIR）＋專業鋼琴編曲（Idiomatic Arranging）＋多格式出版級排版（Multi-Format Engraving）」**的標準化端到端流程，將任何 YouTube 連結或本機音訊轉換為真正可直接彈奏、經過樂理與視覺雙重驗證的雙手鋼琴譜。
 
 ---
 
@@ -17,7 +17,7 @@ description: >-
 
 ```text
 [Stage 1] 音訊擷取與標準化 (scripts/fetch_audio.py)
-   YouTube URL / 本地音檔 ──> 44.1kHz WAV + metadata.json
+   YouTube URL / 本機音檔 ──> 44.1kHz WAV + metadata.json
                 │
                 ▼
 [Stage 2] 來源判別、高精度 MIDI 抽取與忠實度比對 (呼叫 source-extract-compare-skill)
@@ -68,7 +68,7 @@ description: >-
 PY=/Users/mcgradymac/Gemini/write-piano-score/.venv/bin/python
 SKILL_DIR=/Users/mcgradymac/Gemini/write-piano-score/piano-score-skill
 
-# 從 YouTube 連結擷取（支援 --file <本地音檔> 替代 --url）
+# 從 YouTube 連結擷取（支援 --file <本機音檔> 替代 --url）
 $PY $SKILL_DIR/scripts/fetch_audio.py \
   --url "<YouTube_URL>" \
   --out-dir "<工作輸出資料夾>"

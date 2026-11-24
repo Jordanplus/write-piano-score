@@ -4,14 +4,14 @@ description: >-
   獨立進行音訊來源型態判別（純鋼琴獨奏 / 原唱樂團編曲 / 多樂器演奏）、高精度複音 MIDI 抽取
   （ByteDance Neural Piano Transcription / 多音頻譜抽取），並在進入編譜前執行嚴格的
   「抽取 MIDI vs 原始來源音訊」1:1 時間軸忠實度比對（Chroma 重建相似度、漏抓最高聲部／滾奏頂音偵測、
-  幻覺雜音偵測與同步切片實聽），確保從 YouTube 或本地音檔抽出的 MIDI 本身就正確無誤。
+  幻覺雜音偵測與同步切片實聽），確保從 YouTube 或本機音檔抽出的 MIDI 本身就正確無誤。
   當使用者要求「檢查從 YT 抽取的 MIDI 對不對」、「先做來源判斷與抽取正確性比對」、
   或作為 piano-score-skill Stage 2 前置閘門時使用此技能。
 ---
 
 # 🎯 Source Extract & Compare Skill（來源判別、高精度 MIDI 抽取與忠實度獨立比對）
 
-本技能專門解決自動扒譜管線最上游的致命痛點：**「如果從 YouTube / 音檔抽取的原始 MIDI 本身就漏音、錯拍或把滾奏頂音濾掉，後續編曲與排版再用心也會繼承錯誤！」**
+本技能專門解決自動採譜流程最上游的關鍵問題：**「如果從 YouTube / 音檔抽取的原始 MIDI 本身就漏音、錯拍或把滾奏頂音濾掉，後續編曲與排版再用心也會繼承錯誤！」**
 
 透過**四階段獨立上游閘門（Upstream Extraction Gate）**，先確認「來源是什麼」→「用對的模型抽出高解析複音 MIDI」→「把抽出的 MIDI 直接合成音檔，與原曲做 1:1 毫秒級頻譜＋漏音＋聽覺比對」，通過閘門後才交給 `piano-score-skill` 編寫鋼琴譜。
 
@@ -21,7 +21,7 @@ description: >-
 
 ```text
 [Stage 1] 來源型態與音樂參數獨立判別 (scripts/classify_source.py)
-   YouTube URL / 本地音檔 ──> 判斷來源型態：solo_piano / vocal_pop_band / instrumental_ensemble
+   YouTube URL / 本機音檔 ──> 判斷來源型態：solo_piano / vocal_pop_band / instrumental_ensemble
                          ──> 獨立實測：音準偏移(cents)、真實調性與轉調、真實 BPM 候選
                          ──> 決定最佳抽取引擎（避免單音 pYIN 誤用於複音鋼琴！）
                 │
