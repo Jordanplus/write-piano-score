@@ -1,0 +1,102 @@
+=== AUDIO MIR ANALYSIS SUMMARY ===
+Audio: audio.wav | Duration: 03:11.3 (191.3s)
+Tuning offset: +0.010 semitones
+Estimated BPM: 92.29 | Time Signature: 4/4 | Measures: 72
+Global Key: G minor (score=0.9558, runner-up=Bb major (0.9474))
+
+--- Sliding-Window Key / Modulation Scan ---
+  00:00.0 - 00:20.0: G minor      (score=0.950, alt=Bb major (0.9388))
+  00:10.0 - 00:30.0: G minor      (score=0.939, alt=Bb major (0.9150))
+  00:20.0 - 00:40.0: G minor      (score=0.938, alt=Bb major (0.9098))
+  00:30.0 - 00:50.0: Bb major     (score=0.930, alt=G minor (0.9247))
+  00:40.0 - 01:00.0: G minor      (score=0.932, alt=Bb major (0.9155))
+  00:50.0 - 01:10.0: G minor      (score=0.932, alt=Bb major (0.9160))
+  01:00.0 - 01:20.0: Bb major     (score=0.930, alt=G minor (0.9201))
+  01:10.0 - 01:30.0: G minor      (score=0.919, alt=F major (0.9099))
+  01:20.0 - 01:40.0: Bb major     (score=0.924, alt=G minor (0.9147))
+  01:30.0 - 01:50.0: Bb major     (score=0.920, alt=G minor (0.9063))
+  01:40.0 - 02:00.0: G minor      (score=0.933, alt=C minor (0.9165))
+  01:50.0 - 02:10.0: G minor      (score=0.969, alt=Bb major (0.9413))
+  02:00.0 - 02:20.0: D minor      (score=0.953, alt=D major (0.9245))
+  02:10.0 - 02:30.0: D minor      (score=0.936, alt=Bb major (0.9284))
+  02:20.0 - 02:40.0: F major      (score=0.904, alt=Bb major (0.8919))
+  02:30.0 - 02:50.0: Bb major     (score=0.934, alt=G minor (0.9033))
+  02:40.0 - 03:00.0: G minor      (score=0.907, alt=Bb major (0.9064))
+  02:50.0 - 03:10.0: G minor      (score=0.949, alt=Bb major (0.9047))
+  03:00.0 - 03:11.3: D major      (score=0.944, alt=G minor (0.9036))
+
+--- Measure-by-Measure Chord, Bass, Energy & Melody Grid ---
+Bar | Time  | Dyn  | Chords            | Bass          | Melody (8th-note grid)
+------------------------------------------------------------------------------------------------
+  1 | 00:00.5 | mp   | Abm7 -> Gm        | C B Eb A      | G3 C4 Bb4 Bb4 A4 Eb3 G3 -
+  2 | 00:03.1 | mp   | Eb -> F           | A D D D       | G3 A5 A5 F3 - - - -
+  3 | 00:05.6 | mp   | Dm                | B B D B       | F3 - F3 - A5 Eb3 Eb3 -
+  4 | 00:08.1 | mp   | Bbsus4 -> Cm      | Ab Ab B B     | Bb3 Bb3 - - G3 - - -
+  5 | 00:10.6 | mp   | Gm -> Dsus4       | B Ab B G      | Eb3 Eb3 - - Bb4 D3 D3 Eb3
+  6 | 00:13.2 | mf   | Dsus4 -> Gm       | G G G G       | - - - - - Eb3 - -
+  7 | 00:15.7 | mf   | Gm -> Eb          | G Eb Eb Eb    | - - - - - - - -
+  8 | 00:18.3 | mf   | F -> Dm           | F F D D       | - - - - - - - -
+  9 | 00:20.8 | mf   | Dm -> Eb          | D Eb Eb Eb    | - - Eb3 - Eb3 Eb3 - -
+ 10 | 00:23.3 | mp   | Cm -> Bbmaj7      | B B B B       | - - Eb3 Eb3 - Eb3 Bb4 Bb4
+ 11 | 00:25.9 | pp   | D                 | B B G Ab      | - - D3 D3 C5 - - -
+ 12 | 00:28.7 | pp   | Gm -> Eb          | G G A Ab      | G4 A4 - - - - - -
+ 13 | 00:31.1 | mp   | Eb -> Csus4       | B Ab Ab Ab    | C5 A4 - - G4 - - -
+ 14 | 00:33.8 | pp   | Bb -> Gm          | Bb Bb A G     | - - - - - D3 - -
+ 15 | 00:36.4 | pp   | Gm -> Eb          | G G G G       | - - - - - C5 A4 A4
+ 16 | 00:39.1 | mp   | F -> Bb           | G G A Bb      | - - - - - - - Bb4
+ 17 | 00:41.7 | mp   | Eb                | Bb A Ab Bb    | Bb4 - - Bb4 Bb4 Bb4 - -
+ 18 | 00:44.4 | mp   | Adim -> F         | G Ab Ab G     | - - A4 Bb4 F3 F3 A4 A4
+ 19 | 00:47.1 | pp   | Gm                | G G G G       | G4 - - - - - D3 -
+ 20 | 00:49.6 | mp   | Cm7               | B B B B       | Bb4 Bb4 Bb4 - A4 A4 Ab4 -
+ 21 | 00:52.1 | pp   | Am7 -> D          | B B B G       | Ab4 - - - - - - -
+ 22 | 00:54.6 | pp   | D7                | Gb F Eb Ab    | - - D5 D5 C5 D5 - D3
+ 23 | 00:57.3 | mp   | Gm -> Eb          | G G Eb Bb     | G4 - - - - - - -
+ 24 | 00:59.7 | mp   | Eb -> Csus4       | Bb F F B      | A4 A4 - - G4 - - -
+ 25 | 01:02.4 | pp   | Bb -> Gm          | Bb Bb A G     | - - - - - D3 - A4
+ 26 | 01:05.0 | mp   | Gm -> Eb          | G Eb Bb Bb    | - - - - - - A4 A4
+ 27 | 01:07.6 | mp   | F -> Bb           | F F F Bb      | - - - - - - - Bb4
+ 28 | 01:10.3 | mp   | Eb                | Bb Ab Ab A    | Bb4 - G3 Bb4 Bb4 Bb4 - -
+ 29 | 01:13.0 | mp   | F7 -> F           | G G Ab Ab     | - F4 A4 Bb4 F3 A4 A4 A4
+ 30 | 01:15.6 | pp   | Gm                | Gb G G G      | G4 - - - - D3 - -
+ 31 | 01:18.3 | mp   | Cm7 -> Dsus4      | B B B G       | - - - D3 - G4 - -
+ 32 | 01:21.2 | mp   | Gm                | G G G G       | G4 - - - A4 - - -
+ 33 | 01:23.8 | mf   | Gm -> Bb          | G G Bb Bb     | - - - - - - - -
+ 34 | 01:26.5 | mp   | Bb -> Cm          | Bb F B B      | - - - F3 - - - -
+ 35 | 01:29.3 | mp   | Cm -> Gm          | B B G G       | - - - - - - D4 -
+ 36 | 01:32.0 | mf   | Gm -> Gsus4       | G Bb Bb B     | - - - - - - - -
+ 37 | 01:34.6 | mp   | Gsus4 -> Eb       | B B Eb Bb     | - - - - - - - -
+ 38 | 01:37.3 | mp   | Eb -> Fsus4       | Eb F F Bb     | - - - Bb4 Bb4 - - -
+ 39 | 01:40.0 | mp   | Bb -> F           | Bb Bb F B     | Bb4 Bb4 - - - C4 - -
+ 40 | 01:42.9 | mp   | Cm                | B B B G       | - - - - - - - -
+ 41 | 01:45.6 | mp   | Gm -> Bb          | G G Bb Bb     | D4 - - - - - - -
+ 42 | 01:48.2 | mp   | Gsus4             | B B B Eb      | - - - - - - - -
+ 43 | 01:50.8 | mp   | Eb -> D           | Bb Bb Eb Bb   | - - - - - - - -
+ 44 | 01:53.3 | mp   | G                 | A G G G       | - - - - - - - -
+ 45 | 01:55.9 | mf   | Bdim -> Cm        | F F Eb Eb     | - - - - - - - -
+ 46 | 01:58.6 | mf   | Cm                | Eb Eb Eb Eb   | - - - - - - - -
+ 47 | 02:01.2 | mf   | A -> Gm           | A A G G       | - - - - - - - -
+ 48 | 02:03.9 | mf   | Dm                | G F F F       | - - F5 - F4 - - -
+ 49 | 02:06.5 | mf   | Bb -> E           | Bb Bb E E     | - - - - - - - -
+ 50 | 02:09.1 | mf   | A7                | E A A A       | - - - - - - - -
+ 51 | 02:11.8 | f    | Dm                | D D D D       | - - - D3 - - - -
+ 52 | 02:14.4 | f    | Gm                | D D D D       | - - - - - - - -
+ 53 | 02:17.0 | f    | D -> Bb           | D D Bb Bb     | D3 - - - - - Bb3 -
+ 54 | 02:19.6 | mf   | Bb -> Cm          | Bb F F B      | - - - - - - - -
+ 55 | 02:22.5 | mf   | Cm -> Gm          | B B G G       | - - - - - - - -
+ 56 | 02:25.2 | mf   | Gm -> C           | G Bb Bb B     | - - - - - - - -
+ 57 | 02:27.8 | mf   | C -> Eb           | B B Eb Bb     | - - - - - - - -
+ 58 | 02:30.4 | mf   | Fsus4             | Eb F F Bb     | - - - - - - - -
+ 59 | 02:33.1 | mf   | Bb -> F           | Bb Bb F F     | Bb4 - - - - C4 - -
+ 60 | 02:35.9 | mp   | Cm                | B B B G       | - - - - - - - C4
+ 61 | 02:38.5 | mf   | Gm -> Bb          | G G Bb Bb     | D4 - - - - - G3 -
+ 62 | 02:41.2 | mf   | Gsus4             | B B B Bb      | - - - - G3 - - -
+ 63 | 02:43.8 | mp   | Eb                | Bb Bb Bb Bb   | - - Eb3 Eb3 Eb3 Eb3 - -
+ 64 | 02:46.4 | pp   | Eb                | Bb Bb Bb Bb   | - - - - - - - D3
+ 65 | 02:49.0 | pp   | D -> Gsus4        | Bb Bb B Bb    | D3 D3 D3 G3 D3 Bb4 A4 Bb4
+ 66 | 02:51.6 | mp   | Bbmaj7 -> Eb      | Eb Bb G D     | Eb3 - - - A5 F3 F3 -
+ 67 | 02:54.2 | mf   | F -> Dm7          | D A D D       | A3 - - F3 - F3 G5 A5
+ 68 | 02:56.8 | mp   | Dsus4 -> Eb       | Ab Ab Ab Bb   | Eb3 Eb3 Bb3 - - - - G3
+ 69 | 02:59.3 | mp   | Cm -> Bb          | B B B B       | - - - Eb3 - Eb3 - Bb4
+ 70 | 03:01.8 | pp   | D                 | B Ab G G      | - - - - D3 - - -
+ 71 | 03:04.6 | pp   | D -> Gmaj7        | B Ab B G      | - - - - - - - -
+ 72 | 03:07.3 | pp   | Gmaj7             | G G E -       | - - - - - - F4 Gb4

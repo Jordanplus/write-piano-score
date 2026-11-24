@@ -1,0 +1,6971 @@
+{
+  "title": "一千個傷心的理由",
+  "subtitle": "鋼琴獨奏譜（G 小調原調 53 小節完整精修版）",
+  "artist": "張學友",
+  "composer": "李偲菘",
+  "lyricist": "邢增華",
+  "arranger": "McGrady-AI",
+  "difficulty": "intermediate",
+  "key": "G minor",
+  "time_signature": "4/4",
+  "tempo_bpm": 68,
+  "tempo_text": "Andante espressivo（深情的行板）",
+  "source_reference": "https://www.youtube.com/watch?v=TxBtIfitFNE",
+  "measures": [
+    {
+      "number": 1,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Intro 前奏",
+      "dynamic": "mp"
+    },
+    {
+      "number": 2,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Dm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm/D"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "G4",
+            "Bb4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.125,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.125,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "F#4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "F#5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.125
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.125,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D2",
+            "A2",
+            "D3"
+          ],
+          "dur": 2.0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Dm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm/D"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "G4",
+            "Bb4"
+          ],
+          "dur": 1.0,
+          "tie": true
+        },
+        {
+          "pitches": [
+            "D4",
+            "G4",
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "D4",
+            "F#4",
+            "A4"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.5,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 1.0
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "Bb4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "愛",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "過"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "人",
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "我",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Verse 1 主歌一",
+      "dynamic": "mp"
+    },
+    {
+      "number": 10,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Bb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "已"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "lyric": "不"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.5,
+          "lyric": "再"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.75,
+          "lyric": "擁"
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 1.5,
+          "lyric": "有",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.5
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "G4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "許",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "多"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "故"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "事",
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "有",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Bb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "F4",
+            "Bb4",
+            "D5"
+          ],
+          "dur": 1.5,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "這",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "一"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F/Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "次"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "我"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75,
+          "lyric": "愛",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "情",
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25,
+          "lyric": "等",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "不"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "到"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Dm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F4",
+            "C5"
+          ],
+          "dur": 0.5,
+          "lyric": "天"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.5,
+          "lyric": "長"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "地"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25,
+          "lyric": "久",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "錯",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Eb4"
+          ],
+          "dur": 0.5,
+          "lyric": "過"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.0,
+          "lyric": "人"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "是"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "否"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "可"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25,
+          "lyric": "以"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.75,
+          "lyric": "回"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "F#4",
+            "A4"
+          ],
+          "dur": 2.0,
+          "lyric": "首",
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F#4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [],
+          "dur": 2.0
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "愛",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "過"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "心",
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "沒",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Verse 2 主歌二",
+      "dynamic": "mp"
+    },
+    {
+      "number": 18,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Bb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "有"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "lyric": "任"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.5,
+          "lyric": "何"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.75,
+          "lyric": "請"
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 1.5,
+          "lyric": "求",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.5
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "G4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "許",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "多"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "故"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "事",
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "有",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Bb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "F4",
+            "Bb4",
+            "D5"
+          ],
+          "dur": 1.5,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "這",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "一"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F/Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "次"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "我"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75,
+          "lyric": "愛",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "情",
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25,
+          "lyric": "等",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "lyric": "不"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "到"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Dm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F4",
+            "C5"
+          ],
+          "dur": 0.5,
+          "lyric": "天"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.5,
+          "lyric": "長"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "地"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25,
+          "lyric": "久",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 1.5
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "lyric": "走",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Eb4"
+          ],
+          "dur": 0.5,
+          "lyric": "過"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 1.0,
+          "lyric": "路"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "再"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.5,
+          "lyric": "也"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "不"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "lyric": "能"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.75,
+          "lyric": "停"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 1.0,
+          "lyric": "留",
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5",
+            "G5"
+          ],
+          "dur": 1.0,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "dynamic": "cresc"
+    },
+    {
+      "number": 25,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "F4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "A4",
+            "C5"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Chorus 1 副歌一",
+      "dynamic": "mf"
+    },
+    {
+      "number": 26,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "G4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "G4",
+            "Bb4",
+            "D5"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "最",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "後"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25,
+          "lyric": "我"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb4",
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "F4",
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "愛"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "情"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "在"
+        },
+        {
+          "pitches": [
+            "G4",
+            "C5",
+            "G5"
+          ],
+          "dur": 0.25,
+          "lyric": "故",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "G4",
+            "C5",
+            "G5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "事"
+        },
+        {
+          "pitches": [
+            "Eb4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "裡"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "慢"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "Bb4"
+          ],
+          "dur": 1.0,
+          "lyric": "慢",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "陳"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "舊",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "F4",
+            "A4",
+            "C5"
+          ],
+          "dur": 1.0,
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "F4",
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "A4",
+            "C5"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "G4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "G4",
+            "Bb4",
+            "D5"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "最",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "後"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25,
+          "lyric": "在"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb4",
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "別"
+        },
+        {
+          "pitches": [
+            "F4",
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "人"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "lyric": "故"
+        },
+        {
+          "pitches": [
+            "G4",
+            "C5",
+            "G5"
+          ],
+          "dur": 0.25,
+          "lyric": "事",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "G4",
+            "C5",
+            "G5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.5,
+          "lyric": "裡"
+        },
+        {
+          "pitches": [
+            "Eb4",
+            "Eb5"
+          ],
+          "dur": 0.5,
+          "lyric": "我"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5,
+          "lyric": "被",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 4.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4",
+            "Bb4"
+          ],
+          "dur": 2.0,
+          "lyric": "遺",
+          "tie": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Eb4",
+            "G4",
+            "Bb4"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "tie": true
+        },
+        {
+          "pitches": [
+            "D4",
+            "F#4",
+            "A4"
+          ],
+          "dur": 1.0
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "G"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "G7/F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.5,
+          "lyric": "忘",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.5,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "B4",
+            "G5"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Ab5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Bridge 間奏橋段",
+      "dynamic": "mf"
+    },
+    {
+      "number": 34,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7/Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb4",
+            "F5"
+          ],
+          "dur": 0.5,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "A7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "A7/G"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "C#5",
+            "A5"
+          ],
+          "dur": 1.5,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C#5",
+            "Bb5"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C#4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C#4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Dm/F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Bbmaj7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.5,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 1.0,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A4",
+            "A5"
+          ],
+          "dur": 0.75
+        },
+        {
+          "pitches": [
+            "Ab4",
+            "Ab5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "E7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "A7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "B4",
+            "D5",
+            "G#5"
+          ],
+          "dur": 1.0,
+          "arpeggio": true,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G#4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5",
+            "E5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "C#5",
+            "E5",
+            "A5"
+          ],
+          "dur": 1.0,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C#5",
+            "E5",
+            "G5"
+          ],
+          "dur": 1.0,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "E2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G#3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C#4"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "dynamic": "f"
+    },
+    {
+      "number": 38,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Dm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2",
+            "D3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D2",
+            "D3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "C#dim7/D"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "C#4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C#5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "F#4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F#5",
+            "A5"
+          ],
+          "dur": 0.25,
+          "articulation": "accent",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "dynamic": "ff"
+    },
+    {
+      "number": 40,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "傷",
+          "articulation": "accent"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Final Chorus 終極副歌",
+      "dynamic": "f"
+    },
+    {
+      "number": 41,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "D5",
+            "Bb5",
+            "D6"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "最",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "後"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.25,
+          "lyric": "我"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "愛"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "情"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "在"
+        },
+        {
+          "pitches": [
+            "G5",
+            "G6"
+          ],
+          "dur": 0.25,
+          "lyric": "故",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "G5",
+            "G6"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "事"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "裡"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "慢"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 1.0,
+          "lyric": "慢",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "陳"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "舊",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "F5",
+            "A5",
+            "C6"
+          ],
+          "dur": 1.0,
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "F"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "傷",
+          "articulation": "accent"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "一",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.25,
+          "lyric": "千"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "個"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Cm7"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "傷"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "心"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "C5",
+            "C6"
+          ],
+          "dur": 0.75,
+          "lyric": "理"
+        },
+        {
+          "pitches": [
+            "D5",
+            "Bb5",
+            "D6"
+          ],
+          "dur": 1.0,
+          "lyric": "由",
+          "arpeggio": true,
+          "slur": "stop"
+        },
+        {
+          "pitches": [],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "最",
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "後"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.25,
+          "lyric": "在"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Bb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "別"
+        },
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "人"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "的"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.25,
+          "lyric": "故"
+        },
+        {
+          "pitches": [
+            "G5",
+            "G6"
+          ],
+          "dur": 0.25,
+          "lyric": "事",
+          "tie": true
+        },
+        {
+          "pitches": [
+            "G5",
+            "G6"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F5",
+            "F6"
+          ],
+          "dur": 0.5,
+          "lyric": "裡"
+        },
+        {
+          "pitches": [
+            "Eb5",
+            "Eb6"
+          ],
+          "dur": 0.5,
+          "lyric": "我"
+        },
+        {
+          "pitches": [
+            "D5",
+            "D6"
+          ],
+          "dur": 0.5,
+          "lyric": "被",
+          "slur": "start"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb4",
+            "Bb5"
+          ],
+          "dur": 1.5,
+          "lyric": "遺",
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Eb4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb6"
+          ],
+          "dur": 0.5,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 2.0
+        }
+      ],
+      "dynamic": "mp"
+    },
+    {
+      "number": 48,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 4.0,
+          "symbol": "D"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "Bb6"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [],
+          "dur": 1.0
+        },
+        {
+          "pitches": [],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D5",
+            "F#5",
+            "A5"
+          ],
+          "dur": 1.0,
+          "arpeggio": true
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2",
+            "Bb2"
+          ],
+          "dur": 2.0
+        },
+        {
+          "pitches": [],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D2",
+            "A2",
+            "D3"
+          ],
+          "dur": 1.0
+        }
+      ],
+      "dynamic": "p",
+      "tempo_change": {
+        "text": "ad lib. 自由拍",
+        "bpm": 58
+      }
+    },
+    {
+      "number": 49,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Eb"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start",
+          "lyric": "忘"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        }
+      ],
+      "section": "Outro 尾奏",
+      "dynamic": "mp",
+      "tempo_change": {
+        "text": "a tempo 原速",
+        "bpm": 69
+      }
+    },
+    {
+      "number": 50,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "F"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Dm"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C6"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Eb"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "Cm7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "Eb5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "Eb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Bb2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "Eb3"
+          ],
+          "dur": 0.5
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm/D"
+        },
+        {
+          "beat": 3.0,
+          "symbol": "D7"
+        }
+      ],
+      "pedal": "chord",
+      "rh": [
+        {
+          "pitches": [
+            "D4",
+            "Bb4"
+          ],
+          "dur": 1.0,
+          "tie": true
+        },
+        {
+          "pitches": [
+            "D4",
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "dur": 0.25,
+          "slur": "stop"
+        },
+        {
+          "pitches": [
+            "D4",
+            "F#4",
+            "A4"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "F#5"
+          ],
+          "dur": 0.25,
+          "slur": "start"
+        },
+        {
+          "pitches": [
+            "A5"
+          ],
+          "dur": 0.25
+        },
+        {
+          "pitches": [
+            "D6"
+          ],
+          "dur": 0.5,
+          "slur": "stop"
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "D2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "dur": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "dur": 1.0
+        },
+        {
+          "pitches": [
+            "D2",
+            "A2",
+            "D3"
+          ],
+          "dur": 2.0
+        }
+      ],
+      "dynamic": "p",
+      "tempo_change": {
+        "text": "rit. 漸慢",
+        "bpm": 54
+      }
+    },
+    {
+      "number": 53,
+      "chords": [
+        {
+          "beat": 1.0,
+          "symbol": "Gm"
+        }
+      ],
+      "pedal": "bar",
+      "rh": [
+        {
+          "pitches": [
+            "G5",
+            "Bb5",
+            "D6",
+            "G6"
+          ],
+          "dur": 4.0,
+          "arpeggio": true
+        }
+      ],
+      "lh": [
+        {
+          "pitches": [
+            "G2",
+            "G3"
+          ],
+          "dur": 4.0,
+          "arpeggio": true
+        }
+      ],
+      "dynamic": "pp"
+    }
+  ]
+}

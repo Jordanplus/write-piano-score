@@ -1,0 +1,20 @@
+[project]
+name = "write-piano-score"
+version = "0.1.0"
+description = "End-to-end audio-grounded piano transcription, source-extraction verification, multi-format sheet music engraving, and independent score auditing skills."
+requires-python = ">=3.11"
+dependencies = [
+    "yt-dlp",
+    "librosa",
+    "soundfile",
+    "audioread",
+    "music21",
+    "mido",
+    "pretty-midi",
+    "scipy",
+    "numpy",
+    "torch",
+    "torchlibrosa",
+    "piano-transcription-inference",
+    "google-genai",
+]
